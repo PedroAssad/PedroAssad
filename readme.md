@@ -1,3 +1,2 @@
-#aula-git
+# 👨🏽‍💻 Olá, me chamo Pedro Assad!👨🏽‍💻 #
 
-Repositórios da aula de git.
